@@ -1,5 +1,5 @@
-
-Responsive Bootstrap 4 Landing Template
+## AppAlive 
+### Responsive Bootstrap 4 Landing Template
 
 AppAlive is a responsive, professional, and multipurpose SaaS, Software, Startup and WebApp Bootstrap 4 landing template. AppAlive is a powerful flexible tool, which suits best for any kind of landing pages
 
