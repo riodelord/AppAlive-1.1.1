@@ -27,6 +27,5 @@ AppAlive is a responsive, professional, and multipurpose SaaS, Software, Startup
 - Documentation
 
 ## free for all .. donate me 
-BTC ######################
-ETH ######################
-DOGE #####################
+- BTC 13YY2Jc8FasTqqcTnA85PatukkoieZwECL
+- DOGE DFy94LoQDkTeyokESMndYAjKg1sLLXX5gR
